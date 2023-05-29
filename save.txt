@@ -1,0 +1,11 @@
+snakeX2:230.0
+snakeY3:150.0
+snakeX3:210.0
+score:1.0
+snakeX0:190.0
+snakeY1:150.0
+snakeX1:210.0
+snakeY2:150.0
+beanX:270.0
+snakeY0:150.0
+beanY:190.0
